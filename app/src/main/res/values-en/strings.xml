@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab08 - Unit Conversion</string>
+    <string name="Button1_Text">CHOOSE OUTPUT UNITS</string>
+    <string name="valeur_convertir">Value</string>
+    <string name="Bananes">Bananas</string>
+    <string name="Button2_text">CONVERT</string>
+    <string name="resultats">Résult:</string>
+    <string name="APropos">About</string>
+    <string name="imageBanane">Picture of a banana</string>
+</resources>

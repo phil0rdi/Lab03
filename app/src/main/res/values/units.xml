@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cm" translatable="false">CM</string>
+    <string name="cmB" translatable="false">"18.0"</string>
+
+
+    <string name="mm" translatable="false">MM</string>
+    <string name="mmB" translatable="false">"180.0"</string>
+
+    <string name="dm" translatable="false">DM</string>
+    <string name="dmB" translatable="false">"1.8"</string>
+
+    <string name="m" translatable="false">M</string>
+    <string name="mB" translatable="false">"0.18"</string>
+
+    <string name="po" translatable="false">PO</string>
+    <string name="poB" translatable="false">"2.3"</string>
+
+</resources>

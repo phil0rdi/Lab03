@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Lab08 - Conversion d'unités"</string>
+    <string name="Button1_Text">CHOISIR L\'UNITÉ EN SORTIE</string>
+    <string name="valeur_convertir">Valeur à convertir</string>
+    <string name="Bananes">Bananes</string>
+    <string name="Button2_text">EFFECTUER LA CONVERSION</string>
+    <string name="resultats">Résultat:</string>
+    <string name="Example_Value" translatable="false">42.0</string>
+    <string name="APropos">À propos</string>
+    <string name="imageBanane">Image d\'une banane</string>
+</resources>
